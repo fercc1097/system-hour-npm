@@ -1,5 +1,5 @@
 {
-  "name": "system-hour",
+  "name": "system-hour-platzi",
   "version": "1.0.0",
   "description": "gives the hour fo the sistem in 12h format",
   "main": "src/index.js",
@@ -15,7 +15,7 @@
   "author": "fercc1097",
   "license": "MIT",
   "bin": {
-    "system-hour": "./bin/global.js"
+    "system-hour-platzi": "./bin/global.js"
   },
   "preferGlobal": true
 }
