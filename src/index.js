@@ -49,4 +49,4 @@ const systemHour = () => {
   return `${time}:${minutos} ${conector} ${tanda}`;
 };
 
-export default { systemHour };
+module.exports = { systemHour };

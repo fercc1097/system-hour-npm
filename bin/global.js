@@ -1,4 +1,4 @@
-#!/urs/bin/env node
-import { systemHour } from '../src/index';
+#!/usr/bin/env node
+const systemHour = require('../src/index');
 
-console.log(systemHour());
+console.log(systemHour.systemHour());

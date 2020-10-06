@@ -1,6 +1,6 @@
 {
   "name": "system-hour-platzi",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "gives the hour fo the sistem in 12h format",
   "main": "src/index.js",
   "scripts": {
